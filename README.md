@@ -1,6 +1,6 @@
 # OpenposeAPI
 
-- 从秋叶包中定位并提取相关Openpose代码
+- 从extension中定位并提取相关Openpose代码
 
 - 定位Openpose识别出的脸部关键点变量
 
